@@ -1,4 +1,4 @@
-# RQ1
+# Can conceptual rainfall-runoff models capture multi-annual storage dynamics? 
 
 This repository contains the analysis scripts as used in the study.
 
